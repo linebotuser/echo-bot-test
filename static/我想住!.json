@@ -1,0 +1,733 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213",
+          "url": "https://i.postimg.cc/rm76kwVx/image.jpg"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "湧山水民宿",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "5.0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "flex": 0,
+                      "size": "xxs"
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區中山路36-1號",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [],
+                      "flex": 0,
+                      "margin": "xs"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Money",
+                      "flex": 0,
+                      "size": "xxs",
+                      "color": "#8c8c8c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2000-5000元(依房型)",
+                      "flex": 0,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我要訂房 !",
+                "uri": "https://yongshanshui9528.com.tw/"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213",
+          "url": "https://i.postimg.cc/qRHJswK9/image.jpg"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Lemuju 樂木居河岸行館",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.9",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xxs",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區信義路117號",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Money",
+                      "flex": 1,
+                      "size": "xxs",
+                      "color": "#8c8c8c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "1500-5000元(依房型)",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我要訂房 !",
+                "uri": "https://booking.owlting.com/lemuju?lang=zh_TW&adult=1&child=0&infant=0"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/8CGtzpTF/image.jpg",
+          "size": "full",
+          "aspectRatio": "320:213",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大溪老城四季行館",
+              "size": "sm",
+              "weight": "bold"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "text",
+                  "text": "4.8",
+                  "flex": 0,
+                  "margin": "md",
+                  "size": "sm",
+                  "color": "#8c8c8c"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "size": "xxs",
+                      "color": "#8c8c8c",
+                      "flex": 0,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區中央路37號",
+                      "size": "xxs",
+                      "flex": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": []
+                },
+                {
+                  "type": "text",
+                  "text": "Money",
+                  "color": "#8c8c8c",
+                  "size": "xxs"
+                },
+                {
+                  "type": "text",
+                  "text": "2000-5500元(依房型)",
+                  "size": "xxs"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我要訂房 !",
+                "uri": "https://daxilaochengsijixingguan.hotelus.top/"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/HsjCHC24/41.jpg",
+          "size": "full",
+          "aspectRatio": "320:213",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "秘境41",
+              "size": "sm",
+              "weight": "bold"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "text",
+                  "text": "4.8",
+                  "flex": 0,
+                  "margin": "md",
+                  "size": "sm",
+                  "color": "#8c8c8c"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "color": "#8c8c8c",
+                      "size": "xxs"
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區中央路41號",
+                      "size": "xxs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Money",
+                      "size": "xxs",
+                      "color": "#8c8c8c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2000-6500(依房型)",
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我要訂房 !",
+                "uri": "https://www.centralalley41.com.tw/"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/9Q3QzMzY/image.jpg",
+          "size": "full",
+          "aspectRatio": "320:213",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "InnRose 玫瑰左岸莊園"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "text",
+                  "text": "4.9",
+                  "margin": "md",
+                  "size": "sm",
+                  "flex": 0,
+                  "color": "#8c8c8c"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "color": "#8c8c8c",
+                      "size": "xxs"
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區信義路2號",
+                      "size": "xxs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Money",
+                      "size": "xxs",
+                      "color": "#8c8c8c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2000-6000(依房型)",
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我要訂房 !",
+                "uri": "https://www.innrose.com.tw/"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/Gtwc7LVj/83.jpg",
+          "size": "full",
+          "aspectRatio": "320:213",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "雙魚83號民宿",
+              "size": "sm",
+              "weight": "bold"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "icon",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "size": "xs"
+                },
+                {
+                  "type": "text",
+                  "text": "4.9",
+                  "flex": 0,
+                  "margin": "md",
+                  "size": "sm",
+                  "color": "#8c8c8c"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "size": "xxs",
+                      "color": "#8c8c8c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區中正東路83號",
+                      "size": "xxs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": []
+                },
+                {
+                  "type": "text",
+                  "text": "Money",
+                  "size": "xxs",
+                  "color": "#8c8c8c"
+                },
+                {
+                  "type": "text",
+                  "text": "2000-4000元(依房型)",
+                  "size": "xxs"
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我要訂房 !",
+                "uri": "https://www.sniffhotels.com/tw/hotel/83-pisces-83-home"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      }
+    ]
+  }

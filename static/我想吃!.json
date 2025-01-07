@@ -1,0 +1,857 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/6qhKwNy0/image.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "黃大目大溪豆干",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.2",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "桃園市大溪區勝利街229號",
+                  "size": "xxs",
+                  "flex": 1
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E9%BB%83%E5%A4%A7%E7%9B%AE%E5%A4%A7%E6%BA%AA%E8%B1%86%E5%B9%B2%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWIJU2eSleU4qHJfQE5sw9kw2Sc-bSA%3A1735214082196&ei=AkRtZ7HVC5mSvr0PgP_MkQM&ved=0ahUKEwix3umXsMWKAxUZia8BHYA_MzIQ4dUDCBA&uact=5&oq=%E9%BB%83%E5%A4%A7%E7%9B%AE%E5%A4%A7%E6%BA%AA%E8%B1%86%E5%B9%B2%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-m7g-Wkp-ebruWkp-a6quixhuW5suWcsOWdgDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYgAQYogQyCBAAGIAEGKIESLAFUABYAHAAeAGQAQCYAVygAVyqAQExuAEDyAEA-AEC-AEBmAIBoAJhmAMAkgcBMaAHlAI&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213",
+          "url": "https://i.postimg.cc/m2rJh9qR/image.jpg"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "陳師兄素肉圓",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.4",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區慈湖路24之1號",
+                      "size": "xxs",
+                      "flex": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E9%99%B3%E5%B8%AB%E5%85%84%E7%B4%A0%E8%82%89%E5%9C%93%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWIIcPYgNYVWlCvNEqKHAmDSYW2Xnug%3A1735214024259&ei=yENtZ4y-D6bg1e8PlqusuAk&ved=0ahUKEwiMwpn8r8WKAxUmcPUHHZYVC5cQ4dUDCBA&uact=5&oq=%E9%99%B3%E5%B8%AB%E5%85%84%E7%B4%A0%E8%82%89%E5%9C%93%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOmZs-W4q-WFhOe0oOiCieWck-WcsOWdgDIIEAAYogQYiQUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIlhZQxgtYxgtwAXgBkAEAmAFaoAFaqgEBMbgBA8gBAPgBAvgBAZgCAqACYcICChAAGLADGNYEGEeYAwCIBgGQBgOSBwEyoAeAAg&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/W49SBYNk/image.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大溪江家小吃",
+              "weight": "bold",
+              "size": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.2",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區慈湖路42號",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E5%A4%A7%E6%BA%AA%E6%B1%9F%E5%AE%B6%E5%B0%8F%E5%90%83%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWIK3KxyjBMKK4weWXi1trOhDVNr6uQ%3A1735213942249&ei=dkNtZ4HuDoL21e8P7Y7l8Qc&ved=0ahUKEwiBgYzVr8WKAxUCe_UHHW1HOX4Q4dUDCBA&uact=5&oq=%E5%A4%A7%E6%BA%AA%E6%B1%9F%E5%AE%B6%E5%B0%8F%E5%90%83%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhjlpKfmuqrmsZ_lrrblsI_lkIPlnLDlnYAyCBAAGIAEGKIEMggQABiABBiiBEi7HVAAWN8UcAB4AZABAJgBrQKgAZYDqgEFMi4zLTG4AQPIAQD4AQH4AQKYAgOgAqEDwgIGEAAYBxgewgINEAAYgAQYsQMYQxiKBcICCxAAGIAEGLEDGIMBwgILEAAYgAQYsQMYiwPCAhAQABiABBixAxhDGIoFGIsDwgIIEAAYgAQYiwPCAgUQABiABJgDAJIHBTIuMy0xoAeDCA&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213",
+          "url": "https://i.postimg.cc/xddBNzqL/image.jpg"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "蔡記花生糖（原老店）",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.3",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區和平路57號",
+                      "size": "xxs",
+                      "flex": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E8%94%A1%E8%A8%98%E8%8A%B1%E7%94%9F%E7%B3%96%EF%BC%88%E5%8E%9F%E8%80%81%E5%BA%97%EF%BC%89%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWIL1FopCPYygMfvMYv-kzyim6z3o9A%3A1735213872699&ei=MENtZ4CsKtXp1e8Pp-PyoAI&ved=0ahUKEwiAhPezr8WKAxXVdPUHHaexHCQQ4dUDCBA&uact=5&oq=%E8%94%A1%E8%A8%98%E8%8A%B1%E7%94%9F%E7%B3%96%EF%BC%88%E5%8E%9F%E8%80%81%E5%BA%97%EF%BC%89%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiJOiUoeiomOiKseeUn-ezlu-8iOWOn-iAgeW6l--8ieWcsOWdgDIIEAAYogQYiQUyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYgAQYogRIrx9Q-BdY-BdwAXgBkAEAmAFmoAFmqgEDMC4xuAEDyAEA-AEC-AEBmAICoAJtwgIKEAAYsAMY1gQYR5gDAIgGAZAGAZIHAzEuMaAHjQI&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/8khDSLvC/image.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "大溪賴祖傳豆花"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.3",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區仁和路一段61號",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E5%A4%A7%E6%BA%AA%E8%B3%B4%E7%A5%96%E5%82%B3%E8%B1%86%E8%8A%B1%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWIJFmlfLO9mwywOyWENQU7aHvaUv6g%3A1735213797043&ei=5UJtZ_CiAp3p1e8PnZWr4A4&ved=0ahUKEwiwqe2Pr8WKAxWddPUHHZ3KCuwQ4dUDCBA&uact=5&oq=%E5%A4%A7%E6%BA%AA%E8%B3%B4%E7%A5%96%E5%82%B3%E8%B1%86%E8%8A%B1%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-Wkp-a6quiztOelluWCs-ixhuiKseWcsOWdgDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESN8HUABYAHAAeAGQAQCYAWOgAWOqAQExuAEDyAEA-AEC-AEBmAIBoAJnmAMAkgcDMC4xoAeqAg&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/hG6JHVdr/image.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "福臨活魚餐廳",
+              "weight": "bold",
+              "size": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.3",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區康莊路五段174號",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E7%A6%8F%E8%87%A8%E6%B4%BB%E9%AD%9A%E9%A4%90%E5%BB%B3%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWILl7dpeMWMxwS9W8iaR1VJzIDE-wg%3A1735213732106&ei=pEJtZ_uRBrDL1e8P4pfBkQ8&ved=0ahUKEwj78_HwrsWKAxWwZfUHHeJLMPIQ4dUDCBA&uact=5&oq=%E7%A6%8F%E8%87%A8%E6%B4%BB%E9%AD%9A%E9%A4%90%E5%BB%B3%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOemj-iHqOa0u-mtmumkkOW7s-WcsOWdgDIIEAAYgAQYogQyCBAAGKIEGIkFMggQABiABBiiBDIIEAAYgAQYogQyCBAAGKIEGIkFSPQtUMckWMckcAF4AZABAJgBUKABUKoBATG4AQPIAQD4AQL4AQGYAgKgAlnCAgoQABiwAxjWBBhHmAMAiAYBkAYCkgcBMqAHqAI&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213",
+          "url": "https://i.postimg.cc/HW2YMQkh/image.jpg"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "老街油飯[杰師父]客家三角圓",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.0",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區和平路7號",
+                      "size": "xxs",
+                      "flex": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E8%80%81%E8%A1%97%E6%B2%B9%E9%A3%AF%5B%E6%9D%B0%E5%B8%AB%E7%88%B6%5D%E5%AE%A2%E5%AE%B6%E4%B8%89%E8%A7%92%E5%9C%93%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWIIog0mOWQl-MXdYTF0Te0vP7BO7kQ%3A1735213654557&ei=VkJtZ8jRIZmcvr0PlubliQg&ved=0ahUKEwjI1PTLrsWKAxUZjq8BHRZzOYEQ4dUDCBA&uact=5&oq=%E8%80%81%E8%A1%97%E6%B2%B9%E9%A3%AF%5B%E6%9D%B0%E5%B8%AB%E7%88%B6%5D%E5%AE%A2%E5%AE%B6%E4%B8%89%E8%A7%92%E5%9C%93%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiLOiAgeihl-ayuemjr1vmnbDluKvniLZd5a6i5a625LiJ6KeS5ZyT5Zyw5Z2AMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjIJlCPHFiPHHABeAGQAQCYAe8BoAHvAaoBAzItMbgBA8gBAPgBAvgBAZgCAqAC-gHCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC4xoAeHAw&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/D0DYGjJG/image.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大溪春天 蔬食景觀餐廳(晚餐需預約)",
+              "weight": "bold",
+              "size": "xxs"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.8",
+                  "size": "sm",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "桃園市大溪區慈康路155巷15弄25號",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "我想吃!",
+                "uri": "https://www.google.com/search?q=%E5%A4%A7%E6%BA%AA%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3%E5%9C%B0%E5%9D%80&sca_esv=75ba38fbc9ab5bf4&biw=1536&bih=730&sxsrf=ADLYWILMjzp0BtDizVzS6hNdqBDwzdEPjA%3A1735213365250&ei=NUFtZ5_RDs7Dvr0PqO_p0Q8&ved=0ahUKEwjfv_rBrcWKAxXOoa8BHah3OvoQ4dUDCBA&uact=5&oq=%E5%A4%A7%E6%BA%AA%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOWkp-a6que0oOmjn-mkkOW7s-WcsOWdgDIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI2AlQiwRYiwRwAXgAkAEAmAFMoAGIAaoBATK4AQPIAQD4AQGYAgKgAl_CAgcQIxiwAxgnwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHATKgB9gM&sclient=gws-wiz-serp"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      }
+    ]
+  }

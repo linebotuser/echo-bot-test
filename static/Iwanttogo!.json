@@ -1,0 +1,44 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/Y04WvbBT/image.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Taoyuan Tourism ",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Daxi District Attractions",
+                "uri": "https://travel.tycg.gov.tw/en/travel?zipcode=335"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }

@@ -1,0 +1,87 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.postimg.cc/3JCjdctT/pp.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Podcast",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "介紹大溪的美食/景點/季節活動",
+                  "size": "sm",
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "uri",
+            "label": "我想聽!",
+            "uri": "https://open.firstory.me/user/cm5jobd2i07yy01w4hy3gce24/episodes"
+          }
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "margin": "sm"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "uri",
+            "uri": "https://open.firstory.me/user/cm5jobd2i07yy01w4hy3gce24/episodes",
+            "label": "I want to hear it!"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "uri",
+            "label": "聞いてみたい!",
+            "uri": "https://open.firstory.me/user/cm5jobd2i07yy01w4hy3gce24/episodes"
+          }
+        }
+      ],
+      "flex": 0
+    }
+  }

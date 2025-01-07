@@ -1,0 +1,271 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213",
+          "url": "https://i.postimg.cc/pXj2wfJg/image.jpg"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大渓木芸生態博物館",
+              "weight": "bold",
+              "size": "xs",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "5.0",
+                  "size": "xxs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "flex": 0,
+                      "size": "xxs"
+                    },
+                    {
+                      "type": "text",
+                      "text": "台湾335桃園市大渓区普済路11号事務所後棟2階",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [],
+                      "flex": 0,
+                      "margin": "xs"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Money",
+                      "flex": 0,
+                      "size": "xxs",
+                      "color": "#8c8c8c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "150～800元（品目による）",
+                      "flex": 0,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "参加したい",
+                "uri": "https://wem.fonticket.com/"
+              },
+              "style": "primary",
+              "margin": "xs"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://i.postimg.cc/Y0xYxvC9/image.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "三和木工ワークショップ",
+              "weight": "bold",
+              "size": "xs",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xxs",
+                  "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.0",
+                  "size": "xxs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Place",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xxs",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "台湾335桃園市大渓区康庄路三段671巷36号",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Activity",
+                      "flex": 1,
+                      "size": "xxs",
+                      "color": "#8c8c8c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（公式ファンページの発表に準じます）",
+                      "flex": 1,
+                      "size": "xxs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "参加したい",
+                "uri": "https://www.facebook.com/Sanhewoodart"
+              },
+              "style": "primary"
+            }
+          ],
+          "action": {
+            "type": "uri",
+            "label": "我要參加!",
+            "uri": "https://developers.line.biz/flex-simulator/?status=success"
+          },
+          "position": "relative"
+        }
+      }
+    ]
+  }

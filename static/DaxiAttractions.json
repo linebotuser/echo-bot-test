@@ -1,0 +1,93 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.postimg.cc/m2GsR8XM/image.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Tourism in Taoyuan Daxi",
+          "weight": "bold",
+          "size": "sm"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Attractions/Delicacies/Lodging",
+                  "size": "sm",
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "I want to eat!",
+            "text": "我想吃!"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "I want to go!",
+            "text": "我想去!"
+          },
+          "flex": 2
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "margin": "sm",
+          "flex": 1
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "I want to live!",
+            "text": "我想住!"
+          },
+          "style": "link",
+          "height": "sm"
+        }
+      ],
+      "flex": 0
+    }
+  }
